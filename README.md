@@ -17,8 +17,8 @@ The `monitor.sh` script uses `df`, `du`, and `ps` to track system health.
 
 ### Task 2: User Management
 Configured isolated workspaces for developers:
-- **Sarah**: `/home/Sarah/workspace`
-- **Mike**: `/home/mike/workspace`
+- **SARAH**: `/home/Sarah/workspace`
+- **MIKE**: `/home/mike/workspace`
 - **Security**: Implemented 30-day password expiration policy using `chage`.
 
 ### Task 3: Backup Configuration
