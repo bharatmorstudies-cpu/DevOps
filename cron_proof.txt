@@ -1,0 +1,6 @@
+--- ROOT ---
+0 0 * * 2 /usr/local/bin/web_backup.sh
+--- SARAH ---
+0 0 * * 2 /home/bharat-mor/devops_assignment/SARAH_BACKUP.sh
+--- MIKE ---
+0 0 * * 2 /home/bharat-mor/devops_assignment/MIKE_BACKUP.sh
