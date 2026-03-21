@@ -30,4 +30,4 @@ Automated backups are scheduled via `cron` to run every Tuesday at 12:00 AM.
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <[your-repo-link](https://github.com/bharatmorstudies-cpu/DevOps.git>
